@@ -2,11 +2,11 @@
 _**Mycofarm is a community-based approach to addressing homeless, climate change, food security, economic equity, and waste regeneration, and, in the process, transform our city into a livable, joyful and just place.**_
 
 ## Welcome!
-
 Thank you for visiting the mycofarm project repository. This document (the README file) is a hub to give you some information about the project. 
 
-## What are we doing?
+## Why are we doing this?
 The time to address the issues our community faces one-at-a-time is over. Interconnected problems require interconnected solutions. Systems theory tells us that a single intervention designed to address a specific problem is not likely to produce satisfactory results in the long term. We recognize the importance of social networks and community participation in large scope and large scale problem solving and the power of our collective imagination to sustain a cohesive solution.
+
 ### The problem
 
 -   **Our community needs shelter.** 2,165 people were reported as homeless according to the Lane County 2019 Unsheltered Point in Time Count, 75% of the total were experiencing unsheltered homelessness. The Universal Declaration of Human Rights states that  “Everyone has the right to a standard of living adequate for health and well-being, nd the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his control."
